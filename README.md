@@ -2,16 +2,12 @@
 A Modified Glider Flight Control Firmware for STM32F411 Embedded Chip.
 
 ## Initializing Procedure
-```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
-```
+
 
 
 ## Flight Control
+### Auto Land & Auto Take Off
+
 
 ## Abnormal State Detection
 
